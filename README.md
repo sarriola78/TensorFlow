@@ -51,7 +51,6 @@ For now, just follow along the video and code exercise below to get an idea how 
 
 2. [Code yourself](https://github.com/romeokienzler/TensorFlow/blob/master/notebooks/tf2.keras.ipynb) 
 
-
+I hope these trainings will be beneficial to you and your organization.
 
 If you want to learn more, please have a look at our [book](https://learning.oreilly.com/library/view/whats-new-in/9781492073727/)
-
